@@ -1,5 +1,3 @@
-#library(caret)
-
 mydata <- read.csv(file="C:/Users/silke/Desktop/Courses/ML/data/BlogFeedback/blogData_train.csv", header=TRUE, sep=",")
 
 basic_feature <- mydata[,c(51:60,281)]
