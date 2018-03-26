@@ -1,4 +1,3 @@
-#library(caret)
 
 mydata <- read.csv(file="C:/Users/silke/Desktop/Courses/ML/data/BlogFeedback/blogData_train.csv", header=TRUE, sep=",")
 
